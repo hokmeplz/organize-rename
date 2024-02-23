@@ -1,0 +1,34 @@
+{
+  "name": "@legendsky/heloyou",
+  "version": "0.1.0",
+  "description": "the first heloyou project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsLegendSky/heloyou.git"
+  },
+  "keywords": [
+    "heloyou",
+    "helo",
+    "you"
+  ],
+  "author": "itsLegendSky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsLegendSky/heloyou/issues"
+  },
+  "homepage": "https://github.com/itsLegendSky/heloyou#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  },
+  "dependent": {
+    "cookie-thief": "^1.1.1"
+  }
+}

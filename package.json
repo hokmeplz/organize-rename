@@ -1,0 +1,28 @@
+{
+  "name": "helorganize",
+  "version": "1.0.0",
+  "description": "LET'S RENAME YOUR x FILE TODAY!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hokmeplz/organize-rename.git"
+  },
+  "keywords": [
+    "organize",
+    "rename",
+    "file"
+  ],
+  "author": "hokmeplz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hokmeplz/organize-rename/issues"
+  },
+  "homepage": "https://github.com/hokmeplz/organize-rename#readme",
+  "dependencies": {
+    "@legendsky/heloyou": "^0.1.0",
+    "express": "^4.18.2"
+  }
+}
