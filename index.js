@@ -9,7 +9,7 @@ const newName = args[0]; // New name for the files
 const numFilesToRename = parseInt(args[1]); // Number of files to rename
 
 if (!newName || !numFilesToRename) {
-    console.error('Please provide a new name and the number of files to rename.');
+    console.error('Please provide a new name and the number of files to rename!.');
     process.exit(1);
 }
 
